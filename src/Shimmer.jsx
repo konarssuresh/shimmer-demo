@@ -1,7 +1,7 @@
 export const Shimmer = () => {
   return (
     <>
-      {Array(9)
+      {Array(20)
         .fill("")
         .map((v, i) => (
           <div
